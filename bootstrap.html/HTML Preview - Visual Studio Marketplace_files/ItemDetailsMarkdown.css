@@ -1,0 +1,19 @@
+.itemDetails .markdown {
+  color: #333;
+  line-height: 1.6;
+  position: relative;
+}
+
+.itemDetails .markdown > *:first-child {
+  margin-top: 0 !important;
+}
+
+.item-details-control-root .markdown {
+  color: #333;
+  line-height: 1.6;
+  position: relative;
+}
+
+.item-details-control-root .markdown > *:first-child {
+  margin-top: 0 !important;
+}

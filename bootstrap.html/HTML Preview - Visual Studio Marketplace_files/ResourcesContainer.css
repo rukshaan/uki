@@ -1,0 +1,33 @@
+.item-details-control-root .ux-section-resources ul li {
+  margin-bottom: 4px;
+}
+
+.item-details-control-root .ux-section-resources ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.item-details-control-root .ux-section-resources {
+  margin-top: 16px;
+}
+
+.copied-display-container {
+  float: right;
+  position: relative;
+  margin-left: 10px;
+}
+
+.copyID-display-div {
+  font-size: 11px;
+  background-color: #000000;
+  padding: 2px 4px;
+  color: #ffffff;
+  text-align: center;
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+  width: 120px;
+  display: none;
+  position: absolute;
+  left: 50px;
+}
